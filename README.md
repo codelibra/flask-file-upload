@@ -1,4 +1,5 @@
-# flask-file-upload
-simple python flask file upload application
+# App Runner File Upload Readme
+1. App uploads any file and saves to application working directory.
+2. Deploy to App Runner using apprunner.yaml configuration file option.
 
-code taken from (with minor edits) https://www.javatpoint.com/flask-file-uploading - just wanted something I can clone :=)
+
